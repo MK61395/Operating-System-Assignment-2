@@ -1,0 +1,2 @@
+gpa 2.86
+OS DB Algo Automata SDA.
